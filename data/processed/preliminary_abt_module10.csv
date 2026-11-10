@@ -1,4 +1,4 @@
-carrier,month,flight_count,flight_count,avg_dep_delay,avg_arr_delay,avg_distance,pct_arr_delay_gt_15,cancelled_count,airline_name
+carrier,month,flight_count,dest_count,avg_dep_delay,avg_arr_delay,avg_distance,pct_arr_delay_gt_15,cancelled_count,airline_name
 9E,1,1573,30,16.88,10.21,476.35,0.2333,75,Endeavor Air Inc.
 9E,2,1459,31,16.49,8.28,467.89,0.2214,106,Endeavor Air Inc.
 9E,3,1627,31,13.41,2.03,476.49,0.1905,113,Endeavor Air Inc.
